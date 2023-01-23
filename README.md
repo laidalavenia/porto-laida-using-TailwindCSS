@@ -1,6 +1,6 @@
 Hellooo this is my portfolio that i made using Tailwind CSS
 
-You can see this page at https://laidav-portfolio.netlify.app/
+You can see this page at https://laidalav-portfolio.netlify.app/
 
 ## Homepage
 
