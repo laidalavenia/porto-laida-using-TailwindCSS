@@ -1,5 +1,7 @@
 Hellooo this is my portfolio that i made using Tailwind CSS
 
+You can you can see this page at https://laidav-portfolio.netlify.app/
+
 ## Homepage
 
 <p align-"center">
